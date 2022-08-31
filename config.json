@@ -1,0 +1,29 @@
+{
+"ownerNumber": ["6285742235361@s.whatsapp.net"],
+"ownerName": ["NAUFAL"],
+"botName": "Skyzo-Md",
+"packname": "Sky-Md",
+"author": "© NAUFALMR",
+"sessionName": "session",
+"pathimg": "./media/hinata.jpg",
+
+"medsos": {
+"youtube": "https://youtube.com/c/SkyBot",
+"instagram": "https://instagram.com/nfllmr._"
+},
+
+"donasi": {
+"saweria": "https://saweria.co/Riy20",
+"dana": "085732044519",
+"AN_dana": "-",
+"gopay": "085742235361",
+"AN_gopay": "NAUFAL STORE"
+},
+
+"gamewaktu": 90,
+"limitCount": 25,
+"gcount": {
+"prem": 35,
+"user": 15
+}
+}
